@@ -1,0 +1,14 @@
+{
+  "name": "cdk-lambda-nodejs-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1",
+    "typescript": "^3.9.6"
+  }
+}
