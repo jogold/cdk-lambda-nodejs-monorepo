@@ -11,14 +11,14 @@
   "devDependencies": {
     "@types/aws-lambda": "^8.10.64",
     "@types/node": "10.17.5",
-    "aws-cdk": "1.75.0",
+    "aws-cdk": "1.77.0",
     "esbuild": "0.8.14",
     "jest": "^26.6.3",
     "ts-node": "^8.1.0"
   },
   "dependencies": {
-    "@aws-cdk/aws-lambda-nodejs": "1.75.0",
-    "@aws-cdk/core": "1.75.0",
+    "@aws-cdk/aws-lambda-nodejs": "1.77.0",
+    "@aws-cdk/core": "1.77.0",
     "@cdk-lambda-nodejs-monorepo/utils": "^1.0.0",
     "source-map-support": "^0.5.16"
   }
